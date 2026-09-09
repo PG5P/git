@@ -33,7 +33,7 @@ function App() {
             <h3>Kontakt</h3>
 
             <p>📧 patryk@email.com</p>
-            <p>📞 600 000 000</p>
+            <p>📞 600 233 000</p>
             <p>📍 Polska</p>
           </div>
 
